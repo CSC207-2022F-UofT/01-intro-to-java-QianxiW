@@ -38,7 +38,6 @@ public class Basics {
          *
          *    (Relevant reading: 1.1.3. Printing things)
          */
-        System.out.println(7 + 5);
 
         /* TODO (Task 1): Write a line of code below that prints the string
          *                Hello World!
